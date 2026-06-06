@@ -2,7 +2,7 @@
 This program asks the user to enter a password and checks if it matches the correct one.  
 If the password is correct, access is granted. Otherwise, access is denied.
 
-# Features
+## Features
 - Asks the user to input a password
 - Compares the input with a predefined correct password
 - Prints "Access succeed" or "Access denied" based on the result
